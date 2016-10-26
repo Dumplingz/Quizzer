@@ -1,9 +1,9 @@
+import java.util.Scanner;
 
 public class QuestionData {
 	String[][] questions;
 
 	private QuestionData(String filepath, String separator) {
-
 		String data = FileIO.readFileAsString(filepath);
 		String[] groups = data.split("\n");
 		questions = new String[groups.length][2];

@@ -5,6 +5,8 @@ public class Quiz {
 		randomizeArray(questionOrder, 100);
 		boolean[] finishedQuestions = new boolean[data.getTotalQuestions()];
 		String[] possibleAnswers = data.getColumn(1);
+		int numberWrong = 0;
+		int questionsAnswered = 0;
 
 		int indexNumber = 0;
 		String wordBank = getPossibleAnswers(possibleAnswers);
@@ -18,15 +20,22 @@ public class Quiz {
 			int questionNumber = questionOrder[indexNumber];
 			String[] question = data.getQuestion(questionNumber);
 			System.out.println(wordBank);
-			finishedQuestions[indexNumber] = askQuestion(input, question[0], question[1]);
+			boolean isCorrect =  askQuestion(input, question[0], question[1]);
+			if(!isCorrect){
+				numberWrong ++;
+			}
+			finishedQuestions[indexNumber] = isCorrect;
+			questionsAnswered ++;
 			indexNumber = incrementIndexNumber(indexNumber, finishedQuestions.length);
 		}
-		System.out.println("Done!");
+		System.out.println("Done! You got " + numberWrong + " questions wrong out of " + questionsAnswered + "." );
 	}
 
 	public static void doQuiz(Scanner input, QuestionData data, int[] questionOrder) {
 		randomizeArray(questionOrder, 100);
 		boolean[] finishedQuestions = new boolean[data.getTotalQuestions()];
+		int numberWrong = 0;
+		int questionsAnswered = 0;
 
 		int indexNumber = 0;
 		while (true) {
@@ -39,10 +48,15 @@ public class Quiz {
 			int questionNumber = questionOrder[indexNumber];
 			String[] question = data.getQuestion(questionNumber);
 
-			finishedQuestions[indexNumber] = askQuestion(input, question[0], question[1]);
+			boolean isCorrect =  askQuestion(input, question[0], question[1]);
+			if(!isCorrect){
+				numberWrong ++;
+			}
+			finishedQuestions[indexNumber] = isCorrect;
+			questionsAnswered ++;
 			indexNumber = incrementIndexNumber(indexNumber, finishedQuestions.length);
 		}
-		System.out.println("Done!");
+		System.out.println("Done! You got " + numberWrong + " questions wrong out of " + questionsAnswered + "." );
 	}
 
 	private static String getPossibleAnswers(String[] answers) {
