@@ -1,0 +1,96 @@
+paisaje, landscape
+escaso, scarce
+potable, drinkable
+conejo, rabbit
+oveja, sheep
+el combustible, fuel
+desarrollo, development
+porvenir, future
+agotar, to use up
+aguantar, to tolerate
+amenazar, to threaten
+cazar, to hunt
+echar, to throw away
+malgastar, to waste
+prevenir, to prevent
+danino, harmful
+desechable, disposable
+delito, crime
+lucha, fight
+aprobar una ley, to pass a law
+analfabeto, illiterate
+crueldad, cruelty
+ejercito, army
+to realize, darse cuenta
+atasco, traffic jam
+ladron, thief
+chantajear, to blackmail
+huir, to flee
+espiar, to spy
+secuestrar, to kidnap
+almacen, department store
+desempleo, unemployment
+aumento de sueldo, raise in salary
+impuesto, tax
+empresa multinacional, multinational company
+horario de trabajo, work schedule
+presupuesto, budget
+sueldo, wage
+sindicato, labor union
+puesto, job
+administrar, to manage
+ascender, to rise
+contratar, to hire
+despedir, to fire
+estar a la venta, to be on sale
+exigir, to demand
+jubilarse, to retire
+renunciar, to quit
+solicitar, to apply for
+acosado, harrassed
+capaz, capable
+ahorros, savings
+bancarrota, bankruptcy
+bolsa de valores, stock market
+cajero automatico, ATM
+cuenta corriente, checkings account
+cuenta de ahorros, savings account
+deuda, debt
+pobreza, poverty
+requeza, wealth
+aprovechar, to take advantage of
+cobrar, to charge
+gastar, to spend
+prestar, to lend
+agotado, exhausted
+dispuesto, willing
+exitoso, successful
+financiero, financial
+asesor, consultant
+contador, accountant
+dueno, owner
+gerente, manager
+socio, partner
+buscador, search engine
+caderron, CD ROM
+ciberespacio, cyberspace
+contrasena, password
+corrector ortografico, spell checker
+herramienta, tool
+informatica, computer science
+reproductor de DVD, DVD player
+borrar, to erase
+descargar, to download
+avanzado, advanced
+intrigante, intriguing
+ADN, DNA
+avance, advance
+desafio, challenge
+descubrimiento, discovery
+gen, gene
+novedad, new development
+alcanzar, to reach
+comprobar, to prove
+gravedad, gravity
+ovni, UFO
+aterrizar, to land

@@ -1,0 +1,52 @@
+[future/conditional] caber, cabr
+[future/conditional] haber, habr
+[future/conditional] poder, podr
+[future/conditional] querer, querr
+[future/conditional] saber, sabr
+[future/conditional] poner, pondr
+[future/conditional] salir, saldr
+[future/conditional] tener, tendr
+[future/conditional] valer, valdr
+[future/conditional] venir, vendr
+[future/conditional] decir, dir
+[future/conditional] hacer, har
+[future/conditional] accent for future is on which pronouns?, yo tu el vosotros ellos
+[future/conditional] accent for conditional is on which pronouns?, all
+[relative pronouns] After ___ que is used with the definite article, prepositions
+[relative pronouns] ___ is a more formal version of “el que“ etc., el cual
+[relative pronouns] cuyo means, whose
+[relative pronouns] quien means, who
+[subjunctive] a menos que, unless
+[subjunctive] antes de que, before
+[subjunctive] con tal de que, provided that
+[subjunctive] en caso de que, in case
+[subjunctive] para que, so that
+[subjunctive] sin que, without
+[past subjunctive] accent for past subjunctive is on which pronouns?, nosotros
+[past subjunctive] como si, as if
+[comparisons and superlatives] __ + [adjective/adverb] + __. tan como
+[comparisons and superlatives] __ + [noun] + __. tanto como
+[comparisons and superlatives] __ + [verb] + __. tanto como
+[comparisons and superlatives] el + [noun] + mas/menos + [adjective] + __, de
+[comparisons and superlatives] “bueno” comparative form, mejor
+[comparisons and superlatives] “malo” comparative form, peor
+[comparisons and superlatives] “grande” comparative form, mayor
+[comparisons and superlatives] “pequeno” comparative form, menor
+[comparisons and superlatives] “joven” comparative form, menor
+[comparisons and superlatives] “viejo” comparative form, mayor
+[perfect] abrir
+[perfect] cubrir, cubierto
+[perfect] decir, dicho
+[perfect] descubrir, descubierto
+[perfect] escribir, escrito
+[perfect] hacer, hecho
+[perfect] morir, muerto
+[perfect] poner, puesto
+[perfect] resolver, resuelto
+[perfect] romper, roto
+[perfect] ver, visto
+[perfect] volver, vuelto
+[perfect] (yo) “haber” presente subjunctivo, haya
+[perfect] (yo) “haber” presente indicativo, he
+[perfect] (yo) “haber” pluscuamperfecto, habia
+[perfect] (yo) “haber” pluscuamperfecto de subjunctivo, he

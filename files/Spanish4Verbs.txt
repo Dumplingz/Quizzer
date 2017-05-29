@@ -1,0 +1,35 @@
+ser, to be
+haber, to have
+estar, to be
+tener, to have
+hacer, to do
+poder, to be able
+decir, to say
+ir, to go
+ver, to see
+dar, to give
+saber, to know
+querer, to want
+llegar, to arrive
+pasar, to pass
+deber, to owe
+poner, to put
+parecer, to seem
+quedar, to stay
+creer, to believe
+hablar, to speak
+llevar, to carry
+dejar, to leave
+seguir, to follow
+encontrar, to find
+llamar, to call
+conseguir, to get
+mantener, to maintain
+resultar, to turn out
+crear, to create
+partir, to divide
+suponer, to suppose
+lograr, to get
+reconocer, to recognize
+cumplir, to fulfill
+intentar, to try
